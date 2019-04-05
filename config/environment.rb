@@ -7,7 +7,7 @@ require_relative '../lib/concerns/paramable'
 require_relative '../lib/artist.rb'
 require_relative '../lib/song.rb'
 
-require_relative 'spec_helper.rb'
+# require_relative 'spec_helper.rb'
 
 
 
